@@ -1,5 +1,6 @@
-## Hi! I'm Vicente Surraco
+## Hi, I'm Vicente Surraco
 
-A full-stack software engineer with expertise in developing robust data pipelines, analytics platforms, and ML/AI applications. My passion lies at the intersection of software development and data science, where I enjoy building tools and systems that transform raw data into valuable insights and intelligent applications.
-
-Feel free to contact me at vicentesurraco@gmail.com.
+- 👨‍💻 Full-stack dev who’s all about data pipelines, analytics platforms, and ML/AI
+- 🤓 Big fan of where coding meets data science
+- 🛠️ I build cool systems that turn messy data into useful insights and smart apps
+- ✉️ Contact me at vicentesurraco@gmail.com if you want to chat!
